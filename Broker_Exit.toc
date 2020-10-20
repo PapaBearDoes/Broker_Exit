@@ -6,10 +6,6 @@
 ## Title: Broker_Exit
 ## Notes: One Click Forced Exit / Logout / Reload UI button for Broker
 ## Author: PapaBearDoes (Jabouty)
-## X-Curse-Packaged-Version: 4.0.0-Testing
-## X-Curse-Project-Name: Broker_Exit
-## X-Curse-Project-ID: broker_exit
-## X-Curse-Repository-ID: wow/broker_exit/mainline
 
 libs\LibStub\LibStub.lua
 libs\LibDataBroker-1.1\LibDataBroker-1.1.lua
