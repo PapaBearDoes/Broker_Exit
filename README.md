@@ -8,6 +8,6 @@ It's very small, very simplistic, and to me very helpful. It provides a one clic
 You will need an LDB display addon (such as ChocolateBar) for this to be useful to you.
 
 Usage:
-__<Left Click>__ on the icon: Reloads your UI.
-_<SHIFT>_ + __<Left Click>__: Logs you out of the game.
-___<CONTROL>___ + __<Left Click>__: Forced Exit (No confirmation, just saves your addon data and exits the game).
+<Left Click> on the icon: Reloads your UI.
+<SHIFT> + <Left Click>: Logs you out of the game.
+<CONTROL> + <Left Click>: Forced Exit (No confirmation, just saves your addon data and exits the game).
