@@ -1,13 +1,17 @@
 ## Interface: 90001
-## X-Compatible-With : 90001
-## X-Min-Interface: 90001
-##
-## Version: 4.0.0-Testing
 ## Title: Broker_Exit
-## Notes: One Click Forced Exit / Logout / Reload UI button for Broker
 ## Author: PapaBearDoes (Jabouty)
+## Version: 4.0.0-Testing
+## Notes: One Click Forced Exit / Logout / Reload UI button for Broker
 
-libs\LibStub\LibStub.lua
-libs\LibDataBroker-1.1\LibDataBroker-1.1.lua
+# Load Libraries
+  Broker_Exit.xml
 
-Broker_Exit.lua
+# Load Locales
+#  locales/locales.xml
+
+# Load Modules
+#  modules/modules.xml
+
+# Load Main file
+  Broker_Exit.lua

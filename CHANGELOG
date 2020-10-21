@@ -1,0 +1,20 @@
+PapaBearDoes - 20 Oct 2020
+  Took over project.
+  Adjusted layout for new UI in WoW.
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+Jabouty - 29 Sep 2016-09-29
+  Tagging as 3.0.10-Release
+------------------------------------------------------------------------
+Jabouty - 29 Sep 2016-09-29
+  Removed LICENSE.TXT from install base to avoid duplicate files on un-zip.
+------------------------------------------------------------------------
+Jabouty - 29 Sep 2016
+  Updated .TOC to reflect new "RELEASE" version.
+------------------------------------------------------------------------
+Jabouty 29 Sep 2016
+  Removed embeds.xml as not needed.  Adjusted proper locations for libraries in .PKGMETA.
+------------------------------------------------------------------------
+Jabouty 29 Sep 2016
+  Updated .TOC to latest WoW Client Version.  No longer reads "Out Of Date".  No change to functionality.
+------------------------------------------------------------------------

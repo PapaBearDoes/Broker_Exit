@@ -2,10 +2,14 @@ package-as: Broker_Exit
 enable-nolib-creation: no
 
 externals:
-    libs/LibStub: https://repos.wowace.com/wow/libstub/trunk
-    libs/LibDataBroker-1.1:
-      url: https://github.com/tekkub/libdatabroker-1-1.git
-      tag: latest
+  libs/LibStub: https://repos.wowace.com/wow/libstub/trunk
+  libs/LibDataBroker-1.1:
+    url: https://github.com/tekkub/libdatabroker-1-1.git
+    tag: latest
+
+manual-changelog:
+  filename: CHANGELOG
+  markup-type: markdown
 
 license-output: LICENSE
 
