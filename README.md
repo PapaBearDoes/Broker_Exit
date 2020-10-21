@@ -1,7 +1,8 @@
 # ExitBroker
+## One Click Forced Exit/Logout/Reload UI button for Broker
 ExitBroker used to be known as Broker_Exit, but then Twitch then took over Curse, and I lost access to my old account, so I've had to rename the addon to be able to publish it to you guys.  
 
-I found the lack of an LDB logout / reload / forced-exit button to be a royal pain after playing with Broker a bit and replacing all my FuBar addons with LDB compliant ones. Thus ExitBroker was coded.  
+I found the lack of an LDB logout/reload/forced-exit button to be a royal pain after playing with Broker a bit and replacing all my FuBar addons with LDB compliant ones. Thus ExitBroker was coded.  
 
 It's very small, very simplistic, and to me very helpful. It provides a one click availability to reload, exit or logout right on your LDB display.  
 

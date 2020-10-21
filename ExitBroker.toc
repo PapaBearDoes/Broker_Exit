@@ -1,17 +1,17 @@
 ## Interface: 90001
 ## Title: ExitBroker
-## Author: PapaBearDoes (Jabouty)
+## Author: PapaBearDoes
 ## Version: 4.0.0-Testing
-## Notes: One Click Forced Exit / Logout / Reload UI button for Broker
+## Notes: One Click Forced Exit/Logout/Reload UI button for Broker
 
 # Load Libraries
-  ExitBroker.xml
+ExitBroker.xml
 
 # Load Locales
-#  locales/locales.xml
+#locales/locales.xml
 
 # Load Modules
-#  modules/modules.xml
+#modules/modules.xml
 
 # Load Main file
-  ExitBroker.lua
+ExitBroker.lua
