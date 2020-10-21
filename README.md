@@ -9,5 +9,5 @@ You will need an LDB display addon (such as ChocolateBar) for this to be useful 
 
 Usage:  
 \<Left Click\> on the icon: Reloads your UI.  
-*\<SHIFT\>* + <Left Click>: Logs you out of the game.  
-**\<CONTROL\>** + <Left Click>: Forced Exit (No confirmation, just saves your addon data and exits the game).  
+*\<SHIFT\>* + \<Left Click\>: Logs you out of the game.  
+**\<CONTROL\>** + \<Left Click\>: Forced Exit (No confirmation, just saves your addon data and exits the game).  
