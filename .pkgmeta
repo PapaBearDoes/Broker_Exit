@@ -1,4 +1,4 @@
-package-as: Broker_Exit
+package-as: ExitBroker
 enable-nolib-creation: no
 
 externals:

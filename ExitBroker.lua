@@ -1,5 +1,5 @@
 local ldb = LibStub:GetLibrary("LibDataBroker-1.1");
-local dataobj = ldb:NewDataObject("Broker_Exit", {
+local dataobj = ldb:NewDataObject("ExitBroker", {
 	type = "data source",
 	icon = "Interface\\Icons\\inv_pandarenserpentmount_yellow",
 	OnClick = function(self, button)
