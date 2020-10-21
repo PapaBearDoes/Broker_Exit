@@ -12,3 +12,5 @@ Usage:
 *\<Left Click\>* on the icon: Reloads your UI.  
 **\<SHIFT\>** + *\<Left Click\>*: Logs you out of the game.  
 ***\<CONTROL\>*** + *\<Left Click\>*: Forced Exit (No confirmation, just saves your addon data and exits the game).  
+
+***(Any donations given through my addons go 100% to support my small dog rescue - K9 Trust, and are tax deductible as we are a recognized 501(c)(3) Charitable Organization.)***
