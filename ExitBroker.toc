@@ -1,7 +1,7 @@
 ## Interface: 90001
 ## Title: ExitBroker
 ## Author: PapaBearDoes
-## Version: 4.0.0-Testing
+## Version: 4.0.0-Alpha
 ## Notes: One Click Forced Exit/Logout/Reload UI button for Broker
 
 # Load Libraries
