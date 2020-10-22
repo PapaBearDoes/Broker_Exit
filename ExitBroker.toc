@@ -4,10 +4,9 @@
 ## Version: 4.0.0-alpha
 ## Notes: One Click Forced Exit/Logout/Reload UI button for Broker
 
-#@no-lib-strip@
+# Load Libraries
 libs\LibStub\LibStub.lua
 libs\LibDataBroker-1.1\LibDataBroker-1.1.lua
-#@end-no-lib-strip@
 
 # Load Main file
 ExitBroker.lua
