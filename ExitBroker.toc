@@ -4,14 +4,10 @@
 ## Version: 4.0.0-alpha
 ## Notes: One Click Forced Exit/Logout/Reload UI button for Broker
 
-# Load Libraries
-ExitBroker.xml
-
-# Load Locales
-#locales/locales.xml
-
-# Load Modules
-#modules/modules.xml
+#@no-lib-strip@
+libs\LibStub\LibStub.lua
+libs\LibDataBroker-1.1\LibDataBroker-1.1.lua
+#@end-no-lib-strip@
 
 # Load Main file
 ExitBroker.lua
